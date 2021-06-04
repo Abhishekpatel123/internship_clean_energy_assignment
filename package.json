@@ -1,6 +1,7 @@
 {
   "name": "clean-energy-associates_graph-of-stock",
   "version": "0.1.0",
+  "homepage": "https://abhishekpatel123.github.io/internship_clean_energy_assignment",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.4",
